@@ -43,3 +43,8 @@ O **Organizador de Estudos** é uma aplicação de terminal feita em Python que 
 
 ## 📁 Estrutura de Arquivos
 
+organizadorEstudos/
+├── main.py # Código-fonte principal com o menu e funcionalidades
+├── atividades.json # "Banco de dados" em JSON que armazena as atividades
+├── README.md # Documentação do projeto
+├── Projeto_Final_Organizador_de_Estudos.pdf # Arquivo em PDF com todas as etapas do trabalho
