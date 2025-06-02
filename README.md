@@ -97,3 +97,11 @@ Este projeto é distribuído sob a licença MIT. Uso educacional livre.
 
 - Exemplo de banco de dados: [`atividades.json`](./atividades.json)
 - Guia comentado (PDF): [`Guia_Completo_Swift_Comentado.pdf`](./Guia_Completo_Swift_Comentado.pdf)
+
+---
+
+## 🔎 Referências
+
+- [Documentação Oficial do Swift](https://swift.org/documentation/)
+- [Programiz Swift Tutorial](https://www.programiz.com/swift-programming)
+- [Apple Swift Language Guide](https://developer.apple.com/documentation/swift)
