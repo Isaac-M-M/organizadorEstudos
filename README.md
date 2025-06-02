@@ -7,28 +7,49 @@ Repositório oficial: [Isaac-M-M/organizadorEstudos](https://github.com/Isaac-M-
 
 ---
 
-## 🎯 Objetivo
+## 🗺️ Roteiro do Projeto Final
 
-Desenvolver um sistema simples em Swift que:
-- Cadastre matérias, descrições e prazos.
-- Liste todas as atividades em ordem de registro.
-- Armazene as informações localmente em um arquivo `atividades.json`.
-- Utilize estruturas de decisão, repetição, vetores/matrizes e funções.
+### 1️⃣ Ponto de Partida: Ideia e Plano
+
+- **Problema real:** Muitos estudantes têm dificuldade em se organizar, o que leva à perda de prazos e queda de rendimento.
+- **Objetivo da aplicação:** Criar um organizador de estudos em Swift que permita registrar atividades, organizar tarefas e salvar dados localmente em JSON.
 
 ---
 
-## 🧠 Conceitos Aplicados
+### 2️⃣ Mão na Massa: Codificação
 
-Este projeto une todos os módulos do curso de Programação de Computadores:
+- **Linguagem:** Swift
+- **Condicionais:** `if`, `switch`, `guard` para validar dados e controlar fluxos.
+- **Repetições:** `while` e `for` para interações com listas e menus.
+- **Vetores e matrizes:** Uso de arrays de `Atividade` para representar e manipular dados.
+- **Funções:** O código é dividido em funções organizadas para melhor legibilidade e manutenção.
 
-| Módulo                      | Conteúdo Aplicado                                |
-|----------------------------|--------------------------------------------------|
-| UNIDADE I                  | Entrada e saída com `print` e `readLine()`      |
-| UNIDADE II                 | Variáveis e tipos de dados (`String`, `Int`)    |
-| UNIDADE III                | Estrutura sequencial                            |
-| UNIDADE IV                 | Condicionais `if`, `guard` e `switch`           |
-| UNIDADE V                  | Repetição com `while`, `for`                    |
-| UNIDADE VI                 | Vetores e matrizes com `[Atividade]` (struct)   |
+---
+
+### 3️⃣ Teste, Teste e Mais Teste!
+
+- Foram realizados testes manuais de cadastro, listagem e salvamento em JSON.
+- Erros de entrada inválida foram tratados com validações.
+- Parte do código pode ser testado no [Programiz Swift Online](https://www.programiz.com/swift-programming/online-compiler).
+
+---
+
+### 4️⃣ Documentação no GitHub
+
+- Este `README.md` fornece todas as instruções de execução, explicação do código, estrutura de arquivos e referências.
+- O projeto conta com um guia em PDF explicando cada parte do código.
+- Autor registrado: Isaac M. M.
+
+---
+
+### 5️⃣ Conclusão e Próximos Passos
+
+- **Aprendizados:** Estruturação de um sistema completo com Swift, uso de JSON e organização lógica por módulos.
+- **Desafios:** Implementar a leitura/escrita segura de arquivos e validações robustas de entrada.
+- **Futuro:** 
+  - Implementar ordenação por prazo.
+  - Criar uma interface gráfica multiplataforma (em Python com Tkinter ou SwiftUI).
+  - Exportar dados para PDF ou CSV.
 
 ---
 
@@ -39,7 +60,7 @@ Este projeto une todos os módulos do curso de Programação de Computadores:
 ├── atividades.json                        # Banco de dados com as atividades
 ├── organizador_estudos_com_json.swift     # Código principal do projeto
 ├── README.md                              # Documentação do projeto
-└── Guia_Completo_Swift_Comentado.pdf      # Guia detalhado do projeto (se incluído)
+└── Guia_Completo_Swift_Comentado.pdf      # Guia detalhado do projeto
 ```
 
 ---
@@ -60,43 +81,19 @@ cd organizadorEstudos
 swift organizador_estudos_com_json.swift
 ```
 
----
-
-### 💻 Execução no Programiz (parcial)
-
-Você pode testar partes do código no site [Programiz Swift Online](https://www.programiz.com/swift-programming/online-compiler).
-
-> ⚠️ Como o Programiz não permite leitura/escrita de arquivos, o banco `.json` **não funcionará**, mas o restante da lógica pode ser testado normalmente.
+> 🧪 Você também pode testar partes do código no [Programiz Swift Online](https://www.programiz.com/swift-programming/online-compiler), exceto o uso de `.json`.
 
 ---
 
 ## 👥 Equipe
 
-- **Isaac M. M.** — Desenvolvedor e idealizador do projeto  
-- **ChatGPT (OpenAI)** — Apoio técnico e geração de documentação
-
----
-
-## 📌 Prints e Demonstração
-
-A aplicação roda diretamente no terminal, oferecendo uma interface simples em texto com as seguintes opções:
-
-- Cadastrar novas atividades
-- Listar atividades existentes
-- Armazenar e carregar dados automaticamente
+- **Isaac M. M. RGM 38211521** — Desenvolvedor e idealizador do projeto
 
 ---
 
 ## 📄 Licença
 
 Este projeto é distribuído sob a licença MIT. Uso educacional livre.
-
----
-
-## ✅ Extras
-
-- Exemplo de banco de dados: [`atividades.json`](./atividades.json)
-- Guia comentado (PDF): [`Guia_Completo_Swift_Comentado.pdf`](./Guia_Completo_Swift_Comentado.pdf)
 
 ---
 
