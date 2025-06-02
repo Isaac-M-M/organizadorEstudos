@@ -39,7 +39,7 @@ Repositório oficial: [Isaac-M-M/organizadorEstudos](https://github.com/Isaac-M-
 ### 4️⃣ Documentação no GitHub
 
 - Este `README.md` fornece todas as instruções de execução, explicação do código e estrutura de arquivos.  
-- O projeto conta com um guia em PDF explicando cada parte do código: [`Guia_Completo_Swift_Comentado.pdf`](./Guia_Completo_Swift_Comentado.pdf).  
+- O projeto conta com um guia em PDF explicando cada parte do código: [`Guia_Completo_Swift_Comentado.pdf`](./GuiaCompletoSwiftComentado.pdf).  
 - Autor registrado: Isaac M. M.
 
 ---
