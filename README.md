@@ -111,7 +111,7 @@ Repositório oficial: [Isaac-M-M/organizadorEstudos](https://github.com/Isaac-M-
 
 ### 1. Cadastrando uma nova atividade
 
-![Print ao cadastrar atividade](screenshot1.png)
+![Print ao cadastrar atividade](image.png)
 
 ### 2. Listando atividades cadastradas
 
