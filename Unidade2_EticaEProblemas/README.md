@@ -9,7 +9,7 @@ Discutir os impactos da programação no mundo real, promovendo a consciência �
 
 ## 📽️ Análise do Filme
 
-Leia a reflexão completa em [`reflexao.txt`](reflexao.txt)
+Leia a reflexão completa em [`GuiaDProgramaçãoUnidade2.pdf`](GuiaDProgramaçãoUnidade2.pdf)
 
 ## 💻 Códigos Desenvolvidos
 
