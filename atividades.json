@@ -1,0 +1,17 @@
+[
+    {
+        "materia": "Matemática",
+        "descricao": "Estudar para a prova de álgebra",
+        "prazo": "2024-06-10"
+    },
+    {
+        "materia": "Português",
+        "descricao": "Escrever redação sobre meio ambiente",
+        "prazo": "2024-06-12"
+    },
+    {
+        "materia": "História",
+        "descricao": "Ler capítulo sobre Segunda Guerra Mundial",
+        "prazo": "2024-06-14"
+    }
+]
