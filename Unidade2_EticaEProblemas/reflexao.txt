@@ -1,0 +1,15 @@
+
+🎬 Reflexão: Filme Hacker (Anonymous) e Ética na Programação
+
+O filme "Hacker (Anonymous)" apresenta a trajetória de jovens que usam suas habilidades em programação para invadir sistemas, acessar informações privadas e desafiar autoridades. A obra destaca tanto o potencial transformador da tecnologia quanto os riscos de seu uso irresponsável.
+
+🔐 Ética na Programação
+Ética na programação envolve a responsabilidade em como usamos o código que criamos. Programadores têm o poder de proteger dados ou causar grandes danos. O filme mostra dilemas morais como invasão de privacidade, exposição de informações e manipulação de sistemas.
+
+📌 Questões para reflexão:
+- Os personagens usaram a programação de forma ética?
+- Que outras abordagens tecnológicas poderiam resolver os problemas apresentados no filme?
+- Quais são os riscos de usar a programação sem responsabilidade ética?
+
+🧠 Conclusão:
+A ética deve ser uma parte fundamental da formação de programadores. Programar não é apenas escrever código, mas pensar nas consequências reais daquilo que se constrói.
