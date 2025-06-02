@@ -156,7 +156,6 @@ swift organizador_estudos_com_json.swift
 ## 👥 Equipe
 
 - **Isaac M. M.** — Desenvolvedor e idealizador do projeto  
-- **ChatGPT (OpenAI)** — Apoio técnico e geração de documentação
 
 ---
 
