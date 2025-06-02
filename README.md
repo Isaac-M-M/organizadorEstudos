@@ -56,8 +56,7 @@ Repositórios:
 
 ## 👥 Equipe
 
-- **Isaac M M** – Programação, estrutura, documentação
-- **ChatGPT (assistente)** – Suporte técnico e orientações educacionais
+- **Isaac M M RGM 38211521** – Programação, estrutura, documentação
 
 ---
 
