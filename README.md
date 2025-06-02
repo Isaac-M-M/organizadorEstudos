@@ -39,7 +39,7 @@ Repositório oficial: [Isaac-M-M/organizadorEstudos](https://github.com/Isaac-M-
 ### 4️⃣ Documentação no GitHub
 
 - Este `README.md` fornece todas as instruções de execução, explicação do código e estrutura de arquivos.  
-- O projeto conta com um guia em PDF explicando cada parte do código: [`Guia_Completo_Swift_Comentado.pdf`](./GuiaCompletoSwiftComentado.pdf).  
+- O projeto conta com um guia em PDF explicando cada parte do código: [`GuiaComentadoDeAprendizadoEmSwiftComProjeto.pdf`](./GuiaComentadoDeAprendizadoEmSwiftComProjeto.pdf).  
 - Autor registrado: Isaac M. M.
 
 ---
@@ -85,21 +85,55 @@ Repositório oficial: [Isaac-M-M/organizadorEstudos](https://github.com/Isaac-M-
 
 ---
 
-## 🧪 Como Executar
+## 🧭 Passo a Passo para Rodar o Programa
 
-1. Instale o [Swift](https://swift.org/download/) se ainda não tiver.  
-2. Clone o repositório:
+### 🖥️ 1. Verifique se você tem o Swift instalado
 
-   ```bash
-   git clone https://github.com/Isaac-M-M/organizadorEstudos.git
-   cd organizadorEstudos
-   ```
+No terminal (Windows PowerShell, CMD, Terminal do Mac ou Linux):
 
-3. Execute o projeto via terminal:
+```bash
+swift --version
+```
 
-   ```bash
-   swift organizador_estudos_com_json.swift
-   ```
+Se não tiver instalado, baixe e instale por aqui:  
+🔗 https://swift.org/download/
+
+---
+
+### 📂 2. Baixe os arquivos do projeto
+
+Você pode fazer isso de duas formas:
+
+✅ **A. Via Git (recomendado):**
+
+```bash
+git clone https://github.com/Isaac-M-M/organizadorEstudos.git
+cd organizadorEstudos
+```
+
+✅ **B. Via download ZIP no GitHub:**
+
+1. Acesse o repositório: [https://github.com/Isaac-M-M/organizadorEstudos](https://github.com/Isaac-M-M/organizadorEstudos)  
+2. Clique em `Code > Download ZIP`  
+3. Extraia o conteúdo e abra a pasta extraída no terminal.
+
+---
+
+### ▶️ 3. Execute o programa
+
+Com todos os arquivos na mesma pasta, execute:
+
+```bash
+swift organizador_estudos_com_json.swift
+```
+
+---
+
+### 📁 4. Sobre o arquivo `atividades.json`
+
+- O programa cria e atualiza automaticamente esse arquivo.  
+- Ele serve como **banco de dados local** para armazenar as atividades cadastradas.  
+- Se quiser apagar todos os dados, basta deletar o arquivo `atividades.json`.
 
 > 💻 **Execução no Programiz (Parcial)**  
 > Você pode testar partes do código (cadastro, estruturas de decisão, repetição) no [Programiz Swift Online](https://www.programiz.com/swift-programming/online-compiler).  
